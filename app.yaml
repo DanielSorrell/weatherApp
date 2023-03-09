@@ -1,0 +1,6 @@
+runtime: nodejs14
+env: standard
+env_variables:
+  WEATHER_API_KEY: "e9a022df3cb0c0013dc7d049482f212b"
+  DB_URI: "mongodb+srv://Admin:gHnYBWRrmdu2kgp7@weathernow.nrf5wny.mongodb.net/?retryWrites=true&w=majority"
+  SECRET: "FGBCqgh09h67tdP"
